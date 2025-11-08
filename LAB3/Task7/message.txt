@@ -1,0 +1,3 @@
+Cryptography ensures secure communication by using mathematical algorithms.
+Even a tiny change in the message completely alters its hash value.
+This property is called the avalanche effect.

@@ -1,0 +1,2 @@
+This is a sample text to demonstrate HMAC using OpenSSL.
+We will generate HMACs with different algorithms and keys.
