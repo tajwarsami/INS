@@ -1,0 +1,32 @@
+
+---- Decrypted Cipher 1 ----
+
+in a particular and, in each case, different way, these four were indispensable to him--yugo amaryl, because of his quick understanding of the principles of psychohistory and of his imaginatije probings into new areas. it was comforting to know that if anything happened to seldon himself before the mathematics of the field could be completely worked out--and how slowly it proceeded, and how mountainous the obstacles--there would at least remain one good mind that would continue the research
+
+---- Key Mapping ----
+A -> N
+B -> Z
+C -> A
+D -> T
+E -> S
+F -> I
+G -> H
+H -> B
+I -> E
+J -> X
+K -> D
+L -> V
+M -> P
+N -> L
+O -> F
+P -> O
+Q -> C
+R -> R
+S -> K
+T -> W
+U -> M
+V -> U
+W -> G
+X -> Y
+Y -> J
+Z -> Q
