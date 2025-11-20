@@ -1,0 +1,68 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4097 (0x1001)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=BD, ST=d, L=d, O=sust, OU=sust, CN=sust.com/emailAddress=tajwar4651@student.sust.edu
+        Validity
+            Not Before: Nov  8 14:52:13 2025 GMT
+            Not After : Nov  8 14:52:13 2026 GMT
+        Subject: C=BD, ST=d, O=sust, OU=sust, CN=webserverlab.com/emailAddress=taj@webserverlab.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c2:8d:51:1b:7b:d0:14:1b:06:a0:91:a2:62:8c:
+                    34:20:fb:fb:e4:3a:cb:55:bf:c7:33:f8:4e:8d:f0:
+                    c9:81:db:74:c0:ae:78:ed:57:11:9a:fc:ae:d2:ba:
+                    34:c7:68:d3:a6:b6:1d:86:64:72:2e:42:bf:0a:48:
+                    fe:a3:98:f0:ba:61:6a:8a:74:83:c3:74:37:e0:87:
+                    18:28:3e:30:6d:f0:76:90:23:d3:e8:7c:8f:8d:ab:
+                    80:b7:29:c2:b6:2c:34:05:0d:ea:9f:96:77:75:48:
+                    86:82:5d:ce:55:9b:9d:82:91:e2:85:6c:f0:6a:43:
+                    17:30:80:65:6f:93:89:47:6d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                C1:EF:BB:01:6D:E4:49:B5:B0:2F:3F:96:85:7F:DE:C7:B6:49:DD:78
+            X509v3 Authority Key Identifier: 
+                2C:68:CB:99:6C:DF:3C:62:0D:DF:D6:BB:B0:A4:54:C9:41:55:3C:41
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        64:e1:7a:58:9c:e0:82:26:91:88:99:59:f6:1a:78:75:39:ed:
+        d8:e4:38:94:7b:2b:d7:94:79:f2:48:5d:18:1a:90:67:76:76:
+        f5:6a:b6:7c:62:37:69:17:b6:dd:a4:76:15:e4:7a:35:19:87:
+        d2:0c:13:57:88:72:99:40:37:8e:b1:db:61:6f:bc:12:28:8c:
+        59:89:90:9c:1c:eb:4b:87:69:3a:a1:03:67:3b:bf:c4:c0:1a:
+        98:d3:ed:09:ac:97:7d:67:c3:3f:b9:c4:5b:b9:e9:28:2b:69:
+        1a:fa:03:c0:53:63:2b:e7:f6:8a:e6:71:4f:95:0b:ce:cf:69:
+        84:87:1f:19:0f:59:4d:18:60:54:1c:16:d0:1b:3a:8d:70:ac:
+        d1:d7:7e:b2:56:69:80:08:66:a1:b7:34:ae:8a:89:a7:e0:95:
+        cc:45:13:d8:ca:02:52:3c:b3:e4:40:cd:61:2e:b7:ec:ee:ee:
+        3b:40:4f:53:80:73:f0:c6:97:b4:cb:e7:2e:37:12:36:a1:95:
+        3c:f6:ce:55:d3:dd:c0:a0:e8:9a:7b:f6:a3:73:c5:6f:86:ad:
+        4a:9d:eb:97:b6:02:00:61:53:b6:57:b0:04:7a:6c:37:a0:de:
+        3c:0e:f6:bb:59:78:7c:41:7a:01:d5:bb:b9:97:ed:45:1b:eb:
+        c4:41:b2:9e
+-----BEGIN CERTIFICATE-----
+MIIDQDCCAiigAwIBAgICEAEwDQYJKoZIhvcNAQELBQAwgYExCzAJBgNVBAYTAkJE
+MQowCAYDVQQIDAFkMQowCAYDVQQHDAFkMQ0wCwYDVQQKDARzdXN0MQ0wCwYDVQQL
+DARzdXN0MREwDwYDVQQDDAhzdXN0LmNvbTEpMCcGCSqGSIb3DQEJARYacmFraWJ1
+bDUxQHN0dWRlbnQuc3VzdC5lZHUwHhcNMjUxMTA4MTQ1MjEzWhcNMjYxMTA4MTQ1
+MjEzWjB5MQswCQYDVQQGEwJCRDEKMAgGA1UECAwBZDENMAsGA1UECgwEc3VzdDEN
+MAsGA1UECwwEc3VzdDEZMBcGA1UEAwwQd2Vic2VydmVybGFiLmNvbTElMCMGCSqG
+SIb3DQEJARYWcmFraWJAd2Vic2VydmVybGFiLmNvbTCBnzANBgkqhkiG9w0BAQEF
+AAOBjQAwgYkCgYEAwo1RG3vQFBsGoJGiYow0IPv75DrLVb/HM/hOjfDJgdt0wK54
+7VcRmvyu0ro0x2jTprYdhmRyLkK/Ckj+o5jwumFqinSDw3Q34IcYKD4wbfB2kCPT
+6HyPjauAtynCtiw0BQ3qn5Z3dUiGgl3OVZudgpHihWzwakMXMIBlb5OJR20CAwEA
+AaNNMEswCQYDVR0TBAIwADAdBgNVHQ4EFgQUwe+7AW3kSbWwLz+WhX/ex7ZJ3Xgw
+HwYDVR0jBBgwFoAULGjLmWzfPGIN39a7sKRUyUFVPEEwDQYJKoZIhvcNAQELBQAD
+ggEBAGThelic4IImkYiZWfYaeHU57djkOJR7K9eUefJIXRgakGd2dvVqtnxiN2kX
+tt2kdhXkejUZh9IME1eIcplAN46x22FvvBIojFmJkJwc60uHaTqhA2c7v8TAGpjT
+7Qmsl31nwz+5xFu56SgraRr6A8BTYyvn9ormcU+VC87PaYSHHxkPWU0YYFQcFtAb
+Oo1wrNHXfrJWaYAIZqG3NK6KiafglcxFE9jKAlI8s+RAzWEut+zu7jtAT1OAc/DG
+l7TL5y43EjahlTz2zlXT3cCg6Jp79qNzxW+GrUqd65e2AgBhU7ZXsAR6bDeg3jwO
+9rtZeHxBegHVu7mX7UUb68RBsp4=
+-----END CERTIFICATE-----
